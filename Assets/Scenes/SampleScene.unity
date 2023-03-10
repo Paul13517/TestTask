@@ -343,7 +343,7 @@ SphereCollider:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1215882055}
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 13400000, guid: 1e3a7c7332dc1664c886e9c0542ee54a, type: 2}
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 2
@@ -368,7 +368,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: aca9304dc893f3f45a33b1da43a1f0d2, type: 2}
+  - {fileID: 2100000, guid: 7d16a2b4be85d7f468b98fcb5cfe86d0, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0

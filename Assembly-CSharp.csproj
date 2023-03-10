@@ -36,7 +36,7 @@
     <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
   </PropertyGroup>
   <ItemGroup>
-     <Compile Include="Assets\BallRolling.cs" />
+     <Compile Include="Assets\Script\BallRolling.cs" />
     <Reference Include="UnityEngine">
         <HintPath>D:\UnityHub\2020.3.29f1\Editor\Data\Managed\UnityEngine\UnityEngine.dll</HintPath>
     </Reference>
